@@ -53,4 +53,12 @@
 
 **DRILL BUNNY: Drill through the planet as a bunny, not gonna lie it's addictive**
 
+
 --> [DRILL BUNNY](http://dreamshowadventures.github.io/LudumDare29/)
+
+
+**hurry!: Small but speedy arcade shooter**
+
+
+--> [hurry!](http://hughsk.io/ludum-dare-27/)
+
