@@ -1,4 +1,4 @@
-# **Here's a whole bunch of webs. :))**
+# **Here's a whole bunch of webs :))**
 
 
 The Pond: Similar to slither.io
