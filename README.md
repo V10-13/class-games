@@ -1,13 +1,25 @@
+**Slope: A classic**
+
+
+--> [Slope](https://sites.google.com/site/slopeunblockednow/)
+
+
+**FNAF.web: FNAF 1 in web form, quite fun**
+
+
+--> [FNAF.Web](https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/)
+
+
 **The Pond: Similar to slither.io**
 
 
---> https://thepond.zolmeister.com/
+--> [The Pond](https://thepond.zolmeister.com/)
 
 
 **Transcube: Really fun, you're a box and you transform to get through levels.**
 
 
---> http://code.jerev.be/ggo13-transcube/
+--> [Transcube](http://code.jerev.be/ggo13-transcube/)
 
 
 **Astray: 3D Maze game**
@@ -32,19 +44,3 @@
 
 
 --> http://ogoshen.github.io/game-off-2012/
-
-
-**FNAF.web: FNAF 1 in web form, quite fun**
-
-
---> https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
-
-
-**Slope: A classic**
-
-
---> [(/images/https://media.istockphoto.com/photos/sun-shining-in-a-forest-picture-id901134626?b=1&k=20&m=901134626&s=170667a&w=0&h=SvvOoqv-fAHFKoX3-etEUtBXWbSh0oLYauE7B1_oycY=)/
-Slope](https://sites.google.com/site/slopeunblockednow/)
-
-
-
