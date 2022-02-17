@@ -2,5 +2,8 @@ theme: jekyll-theme-slate
 title: In class games   
 description: Just a school project
 show_downloads: false
-system: true 
+system: true
 
+ <li class="masthead__menu-item">
+          <a href="https://thepond.zolmeister.com/">Research</a>
+        </li>
