@@ -36,4 +36,6 @@ Octocat Jump: Pretty good game for what it is
 
 --> http://ogoshen.github.io/game-off-2012/
 
+FNAF.web: FNAF 1 in web form, quite fun
 
+--> https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/
