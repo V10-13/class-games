@@ -4,13 +4,13 @@
 The Pond: Similar to slither.io
 
 
---> <link/https://thepond.zolmeister.com/>
+--> https://thepond.zolmeister.com/
 
 
 Transcube: Really fun, you're a box and you transform to get through levels.
 
 
---> <link/http://code.jerev.be/ggo13-transcube/>
+--> http://code.jerev.be/ggo13-transcube/
 
 
 Astray: 3D Maze game 
