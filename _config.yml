@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Title Example 
+Description: Description 
+logo: 
+show_downloads: false
