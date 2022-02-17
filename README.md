@@ -43,8 +43,8 @@
 **Slope: A classic**
 
 
---> https://sites.google.com/site/slopeunblockednow/)
+--> [(/images/https://media.istockphoto.com/photos/sun-shining-in-a-forest-picture-id901134626?b=1&k=20&m=901134626&s=170667a&w=0&h=SvvOoqv-fAHFKoX3-etEUtBXWbSh0oLYauE7B1_oycY=)
+Slope](https://sites.google.com/site/slopeunblockednow/)(/images/https://media.istockphoto.com/photos/sun-shining-in-a-forest-picture-id901134626?b=1&k=20&m=901134626&s=170667a&w=0&h=SvvOoqv-fAHFKoX3-etEUtBXWbSh0oLYauE7B1_oycY=)
 
 
 
-[Click this](https://sites.google.com/site/slopeunblockednow/)
