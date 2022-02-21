@@ -61,7 +61,14 @@
 
 **Digger: Boulderdash game but HTML5**
 
+
 --> [Digger](https://lutzroeder.github.io/digger/)
+
+
+**Stairway to the Moon: A simple yet attention-grasping game**
+
+
+--> [Stairway to the Moon](https://khaledsakr.github.io/stairway-to-the-moon/)
 
 
 **DRILL BUNNY: Drill through the planet as a bunny, not gonna lie it's addictive**
@@ -80,3 +87,6 @@
 
 
 --> [Hyperspace Garbage Collection](http://razh.github.io/game-off-2013/)
+
+**PLEASE READ!!** 
+None of these games belong to me and most creators be found through github (reason being these are mostly github games) Once again, I am ***NOT*** the creator of these wonderful games, I am simply the creator of this website. I'll eventually develop a spot for any further suggestions/improvements. Have a wonderful rest of your day, happy playing! -Vi
