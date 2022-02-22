@@ -89,5 +89,4 @@
 --> [Hyperspace Garbage Collection](http://razh.github.io/game-off-2013/)
 
 **PLEASE READ!!** 
-
 None of these games belong to me and most creators be found through github (reason being these are mostly github games) Once again, I am ***NOT*** the creator of any of these games, I am just the creator of this website. I'll eventually develop a spot for any further suggestions/improvements. Have a wonderful rest of your day, happy playing! -Vi
