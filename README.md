@@ -1,6 +1,6 @@
 # **In-class Games** #
 ### *This is a huge work in progress, enjoy* ###
-
+---
 
 **Minecraft: Not the official but very similar**
 
