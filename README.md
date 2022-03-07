@@ -1,3 +1,5 @@
+<span data-color="red">Red</span>
+
 # **In-class Games** # 
 ### *This is a huge work in progress, enjoy* ###
 ---
