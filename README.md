@@ -1,4 +1,4 @@
-# **In-class Games** #
+# **In-class Games** # 
 ### *This is a huge work in progress, enjoy* ###
 ---
 
