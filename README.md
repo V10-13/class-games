@@ -55,6 +55,12 @@
 --> [Custom Tetris](http://ondras.github.io/custom-tetris/)
 
 
+**Normal Tetris: You shouldn't need an explaination for this one**
+
+
+--> [Tetris](http://tetris.wikia.tetris.com/play-tetris)
+
+
 **3D.CITY: A 3D sandbox game**
 
 
@@ -98,6 +104,7 @@
 
 
 **Cookie Clicker (scratch ver.): Found on scratch, really impressive**
+
 
 --> [Cookie Clicker](https://scratch.mit.edu/projects/127689014/fullscreen/)
 
