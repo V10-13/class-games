@@ -2,7 +2,7 @@
 
 ## *This is a huge work in progress, enjoy :)* ##
 
- ## *Suggestions/Questions Here --> [Suggestions and Questions](https://github.com/V10-13/class-games/issues)* ## 
+## *Suggestions/Questions Here --> [Suggestions and Questions](https://github.com/V10-13/class-games/issues)* ## 
  
 -----
 
