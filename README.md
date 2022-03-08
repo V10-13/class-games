@@ -112,7 +112,7 @@
 **Connect Four: Connect four and you win, pretty fun** 
 
 
---> [c4](https://kenrick95.github.io/c4/)
+--> [Connect Four](https://kenrick95.github.io/c4/)
 
 
 **PLEASE READ!!** 
