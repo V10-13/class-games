@@ -2,12 +2,6 @@
 ### *This is a huge work in progress, enjoy* ###
 ---
 
-**Minecraft: Not the official but very similar**
-
-
---> [Minecraft](https://minecraft.js.org/?server=95.111.249.143:10000&nick=SargeJoyful&proxy=production)
-
-
 **Slope: A classic**
 
 
@@ -18,6 +12,12 @@
 
 
 --> [FNAF 1](https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/)
+
+
+**Minecraft: Not the official but very similar**
+
+
+--> [Minecraft](https://minecraft.js.org/?server=95.111.249.143:10000&nick=SargeJoyful&proxy=production)
 
 
 **Archaic Quest: Fantasy RPG** 
