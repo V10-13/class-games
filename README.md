@@ -109,6 +109,12 @@
 --> [Cookie Clicker](https://scratch.mit.edu/projects/127689014/fullscreen/)
 
 
+**Connect Four: Connect four and you win, pretty fun** 
+
+
+--> [c4](https://kenrick95.github.io/c4/)
+
+
 **PLEASE READ!!** 
 None of these games belong to me and most creators be found through the game's pages. Once again, I am ***NOT*** the creator of any of these games, I am just the creator of this website. I am not making ***any form of finance*** off of this website. It is a resource for people to access games made by different people. Have a wonderful rest of your day, happy playing! -Vi 
 
