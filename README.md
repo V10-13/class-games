@@ -13,7 +13,7 @@
 --> [Slope](https://sites.google.com/site/slopeunblockednow/)
 
 
-**FNAF.web: FNAF 1 in web form, quite fun**
+**FNAF.web: FNAF 1 in web form, quite fun (Blocked for some devices/schools)**
 
 
 --> [FNAF 1](https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/)
