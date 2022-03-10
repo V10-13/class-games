@@ -3,8 +3,7 @@
 ## *This is a huge work in progress, enjoy :)* ##
 
 ## *Suggestions/Questions Here --> [Suggestions and Questions](https://github.com/V10-13/class-games/issues)* ## 
- 
-## *Report Blocked Games Here --> [Blocked Games Rep.](https://github.com/V10-13/class-games/issues/3)*
+
 -----
 
 
@@ -119,3 +118,5 @@
 **PLEASE READ!!** 
 None of these games belong to me and most creators be found through the game's pages. Once again, I am ***NOT*** the creator of any of these games, I am just the creator of this website. I am not making ***any form of finance*** off of this website. It is a resource for people to access games made by different people. Have a wonderful rest of your day, happy playing! -Vi 
 
+
+*Report Blocked Games Here --> [Blocked Games Rep.](https://github.com/V10-13/class-games/issues/3)*
