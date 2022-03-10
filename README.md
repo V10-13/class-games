@@ -4,7 +4,7 @@
 
 ## *Suggestions/Questions Here --> [Suggestions and Questions](https://github.com/V10-13/class-games/issues)* ## 
  
-## *Report Blocked Games Here --> [Blocked Games Rep.]()*
+## *Report Blocked Games Here --> [Blocked Games Rep.](https://github.com/V10-13/class-games/issues/3)*
 -----
 
 
